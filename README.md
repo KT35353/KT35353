@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kennan! 
 
+🌱**About me**
+- High school student currently taking a software class!
+- My hobby is are sports.
+- learning coding
+
+  **projects**
+  - **Calculator App** A CLI program built using Python.
+  - **Personal website:** my first HTML/CSS webpage.
+ 
+  **How to Reach me:**2028KOTurman@franklin.k12.ga.us
 <!--
 **KT35353/KT35353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
